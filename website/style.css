@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "asfand";
+    src: url(./assets/fonts/futurak.ttf) format('truetype');
+}
+body{
+    background-color: black;
+}
+.right{
+    margin-right: 500px;
+}
+.sliderr{
+   
+    margin-left: 25%;
+
+}
+a{
+    color: white !important;
+}
+.side{
+    margin-left: 290px;
+}
+#iconn{
+    width: 130px;
+}
+li{
+    list-style-type: none;
+    padding: 10px;
+}
+#boldd{
+    font-weight: bold;
+    color:white;
+}
+.cardss{
+    margin: 40px;
+}
+.package{
+    color: red;
+    font-size: smaller;
+}
+#franchise{
+    border: 1px solid white;
+    padding: 10px;
+    width: 150px;
+    border-radius: 25px;
+}
+#order{
+    border: 1px solid white;
+    padding: 10px;
+    width: 150px;
+    border-radius: 25px;
+    background-color: red;
+}    
+
+#direction{
+    border: 1px solid white;
+    border-radius: 25px;
+    width: 150px;
+    font-size: smaller;
+    margin:auto;
+}
+#salt{
+    font-family: "asfand";
+    font-size: larger;
+}
+.cbody{
+    background-color: black;
+    color: white;
+}
+#bordernone{
+    border: none;
+}
